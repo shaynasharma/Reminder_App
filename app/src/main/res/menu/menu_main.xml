@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.bizhawkzreminderdemo.MainActivity">
+
+    <item
+        android:id="@+id/action_manage_channels"
+        android:orderInCategory="300"
+        android:title="@string/manage_channels"
+        app:showAsAction="never"/>
+</menu>
